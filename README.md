@@ -5,7 +5,7 @@ Cinema +
 MongoDB, Expressjs, React/Redux, Nodejs
 </p>
 
-[![GitHub license] [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
+ [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
 
 Cinema + is an online Movie Ticket Booking web app with MERN Stack.
 
